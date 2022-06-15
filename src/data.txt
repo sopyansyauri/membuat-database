@@ -10,3 +10,9 @@ Jurusan: Teknik Sipil
 Nama: Soleh
 Jurusan: Perkebunan
  
+Nama: Cristiano Ronaldo
+Jurusan: Sepak Bola
+ 
+Nama: Lieonel Messi
+Jurusan: Sepak Bola
+ 
