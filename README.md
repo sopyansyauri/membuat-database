@@ -13,3 +13,7 @@ If everything is fine, a few minutes later you will get `<build_dir>/bin/opencv.
 Find out more build options by `-h` switch.
 
 For detailed build tutorial, check out `<opencv_src_dir>/doc/js_tutorials/js_setup/js_setup/js_setup.markdown`.
+
+'''
+apt intall 
+'''
