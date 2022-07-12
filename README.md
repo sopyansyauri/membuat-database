@@ -17,3 +17,5 @@ For detailed build tutorial, check out `<opencv_src_dir>/doc/js_tutorials/js_set
 ```
 apt install
 ```
+
+harus download `defendencies yang bagus`;
