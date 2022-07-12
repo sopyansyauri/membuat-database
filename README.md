@@ -1,5 +1,4 @@
 Building OpenCV.js by Emscripten
-====================
 
 [Download and install Emscripten](https://emscripten.org/docs/getting_started/downloads.html).
 
