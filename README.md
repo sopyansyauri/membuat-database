@@ -19,3 +19,5 @@ apt install
 ```
 
 harus download `defendencies yang bagus`;
+
+[Masuk ke google](https://www.google.com/).
